@@ -1,0 +1,11 @@
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\bin\Debug\netcoreapp2.1\Dasha OOP 4.3.deps.json
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\bin\Debug\netcoreapp2.1\Dasha OOP 4.3.runtimeconfig.json
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\bin\Debug\netcoreapp2.1\Dasha OOP 4.3.runtimeconfig.dev.json
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\bin\Debug\netcoreapp2.1\Dasha OOP 4.3.dll
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\bin\Debug\netcoreapp2.1\Dasha OOP 4.3.pdb
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\obj\Debug\netcoreapp2.1\Dasha OOP 4.3.csprojAssemblyReference.cache
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\obj\Debug\netcoreapp2.1\Dasha OOP 4.3.csproj.CoreCompileInputs.cache
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\obj\Debug\netcoreapp2.1\Dasha OOP 4.3.AssemblyInfoInputs.cache
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\obj\Debug\netcoreapp2.1\Dasha OOP 4.3.AssemblyInfo.cs
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\obj\Debug\netcoreapp2.1\Dasha OOP 4.3.dll
+C:\Users\Maryan\source\repos\Dasha OOP 4.3\Dasha OOP 4.3\obj\Debug\netcoreapp2.1\Dasha OOP 4.3.pdb
